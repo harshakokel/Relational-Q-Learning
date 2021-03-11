@@ -1,9 +1,8 @@
-# WORK-IN-PROGRESS  
-
 ## Relational Q Learning
 
+**Work in progress**
 
-Repository contains implementation of following Relational Q-Learning algorithms.
+This repository contains implementation of following Relational Q-Learning algorithms.
  
 1. Relational Regression Tree (RRT) by Džeroski et al. 2001. 
 2. Relational Gradient Boosted Q-Learning (GBQL) as proposed by Das et al. 2020.
