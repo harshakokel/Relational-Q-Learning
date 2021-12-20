@@ -16,7 +16,7 @@ This repository contains implementation of following Relational Q-Learning algor
     source rql-venv/bin/activate
     ```
 
-2. Get the debug version of srlearn
+2. Get the debug branch of the [srlearn fork](https://github.com/harshakokel/srlearn)
     
     ```shell script
     git clone git@github.com:harshakokel/srlearn.git
